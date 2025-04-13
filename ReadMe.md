@@ -18,3 +18,6 @@
 - **Python Libraries:** Pandas, Numpy, Matplotlib, Seaborn
 - **Other Tools:** Canva, Power Point, Html&Css
 
+# Latest Projects 
+
+🔸 **Python(Pandas), Power BI Dashboards:** ![Wisabi ATMs Transaction Analysis][https://github.com/ibrohimpardaboyev/Wisabi-Bank-Transaction-Analysis]
