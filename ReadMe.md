@@ -1,6 +1,6 @@
 # About Me 
 ##### SQL| Python| Microsoft Power Bi| Microsoft Excel| Statistics| Graph Based Algorithms
-🔹 passionate about **data analytics**, and **visualization** //
+🔹 passionate about **data analytics**, and **visualization** \n
 🔹 Data **Analytics** skills and **problem solving** skill 
 🔹 Skilled in **Statistics**, **Excel**, **SQL**, and **Power BI**
 🔹 currently Building **Power BI** dashboards
