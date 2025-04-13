@@ -20,4 +20,7 @@
 
 # Latest Projects 
 
-🔸 **Python(Pandas), Power BI Dashboards:** <a href="https://github.com/ibrohimpardaboyev/Wisabi-Bank-Transaction-Analysis">Wisabi ATMs Transaction Analysis</a>
+🔸 **Python(Pandas), Power BI Dashboards:** <a href="https://github.com/ibrohimpardaboyev/Wisabi-Bank-Transaction-Analysis">Wisabi ATMs Transaction Analysis</a> || <a href="https://github.com/ibrohimpardaboyev/job-posting-analysis">Job Postings Analysis</a> 
+
+🔸 **Python(Pandas),Web-Scraping,Matplotlib**: <a href="https://github.com/ibrohimpardaboyev/web-scraping">Movies Top Realtime Gross Income</a>
+ 
