@@ -20,4 +20,4 @@
 
 # Latest Projects 
 
-🔸 **Python(Pandas), Power BI Dashboards:** ![Wisabi ATMs Transaction Analysis][https://github.com/ibrohimpardaboyev/Wisabi-Bank-Transaction-Analysis]
+🔸 **Python(Pandas), Power BI Dashboards:** <a href="https://github.com/ibrohimpardaboyev/Wisabi-Bank-Transaction-Analysis">Wisabi ATMs Transaction Analysis</a>
