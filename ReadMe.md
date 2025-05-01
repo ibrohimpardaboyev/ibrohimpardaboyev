@@ -2,7 +2,7 @@
 ##### SQL| Python| Microsoft Power Bi| Microsoft Excel| Statistics| Graph Based Algorithms
 🔹 passionate about **data analytics**, and **visualization**
 
-🔹 Data **Analytics** skills and **problem solving** skill 
+🔹 Data **Analytics** & Engineering skills and **problem solving** skill 
 
 🔹 Skilled in **Statistics**, **Excel**, **SQL**, and **Power BI**
 
@@ -15,6 +15,7 @@
 - **Programming:** Python, Sql, c&c++
 - **Databases:** Sql Server, Postgres Sql, MySql
 - **Data Visualizatio:** Excel, Power Bi, Python(Matplotlib & Seaborn)
+- **ETL Processing**: SSIS, SQL, Python
 - **Python Libraries:** Pandas, Numpy, Matplotlib, Seaborn
 - **Other Tools:** Canva, Power Point, Html&Css
 
